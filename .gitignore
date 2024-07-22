@@ -10,7 +10,6 @@ eslint.config.mjs
 #IDEs
 .idea/
 .vscode/
-.husky/
 
 # Logs
 logs
