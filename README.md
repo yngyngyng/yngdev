@@ -18,6 +18,7 @@
 - Data is stored in NoSQL MongoDB
 - Data is fetched using API (running with Express) in Node.js environment, you will need to clone another repo and deploy it
   - Link to the repo
+- UUID token to get responses from API, make sure you set same token for respectable environments
 
 ## Deployment
 
